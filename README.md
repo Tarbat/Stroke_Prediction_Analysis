@@ -1,4 +1,5 @@
 # Stroke_Prediction_Analysis
+# Ссылка на дата сет: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 
 0) Описание задачи:
 Прогнозирование риска инсульта на основе медицинских показателей пациента
